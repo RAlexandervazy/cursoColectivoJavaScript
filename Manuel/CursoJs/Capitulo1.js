@@ -1,0 +1,1 @@
+console.log("El linuz Torlvad me la pela")
